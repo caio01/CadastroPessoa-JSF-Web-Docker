@@ -15,18 +15,15 @@ Esse projeto consiste na criação de:
 
 ## Repositórios
 
-Ambiente 1 - Aplicação Web (JSF)  
-https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/tree/main/CadastroPessoaWEB  
+[ Ambiente 1 - Aplicação Web (JSF) ](https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/tree/main/CadastroPessoaWEB) 
 
-Servidor WildFly da Aplicação Web  
-https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/tree/main/wildfly-19.1-WEB  
+[ Servidor WildFly da Aplicação Web ](https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/tree/main/wildfly-19.1-WEB) 
 
-Banco de dados da Aplicação WEB (Docker)  
-https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/tree/main/banco-web  
+[ Banco de dados da Aplicação WEB (Docker) ](https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/tree/main/banco-web) 
 
 Foram implementadas duas aplicações:  
 Essa aplicação WEB, usado no cadastro e consulta da pessoa;  
-E uma API que apenas disponibilizará endpoints REST para registro das pessoas. (https://github.com/caio01/CadastroPessoa-JSF-Web-Docker) 
+E uma [API](https://github.com/caio01/CadastroPessoa-JSF-API-Docker) que apenas disponibilizará endpoints REST para registro das pessoas. 
 
 
 ## Regras de Negócio
