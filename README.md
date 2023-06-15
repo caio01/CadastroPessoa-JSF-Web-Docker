@@ -9,6 +9,10 @@ Esse projeto consiste na criação de:
     • Envio da pessoa para outra API (criada em outro projeto)
     • Criação de um endpoint de consumo de informações da pessoa (pelo CPF)
 
+## Demonstração de Funcionamento
+![chrome_fZa1vDXDfm](https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/ff8a8321-842c-4cd1-be5f-c2c4c912338e)
+
+
 ## Repositórios
 
 Ambiente 1 - Aplicação Web (JSF)  
@@ -145,5 +149,9 @@ Seguem os serviços que devem ser criados:
 
 ## Banco de Dados
 As tabelas do banco de dados são criadas automaticamente.  
-As seguintes entidades devam existir:  
-![image](https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/31099735-4c3c-4806-854f-f87350770252)
+As seguintes entidades devem existir:  
+![image](https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/31099735-4c3c-4806-854f-f87350770252)  
+
+
+
+#### Créditos pelo Desenvolvimento do case: Senai/FIESC
