@@ -267,9 +267,9 @@ Para verificar se o docker subiu corretamente, realizar a conexão com o banco:
 
   ![image][inst-8]
 
-  
 
-[demo-funcionamento]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/ff8a8321-842c-4cd1-be5f-c2c4c912338e
+
+[demo-funcionamento]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/6ea11e8e-d9e2-4799-9083-64c3b9d482f7
 [aplicacao-web]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/tree/main/CadastroPessoaWEB
 [server-aplicacao-web]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/tree/main/wildfly-19.1-WEB
 [banco-aplicacao-web]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/tree/main/banco-web
