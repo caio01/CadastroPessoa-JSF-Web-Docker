@@ -269,44 +269,36 @@ Para verificar se o docker subiu corretamente, realizar a conexão com o banco:
 
 
 
-[demo-funcionamento]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/6ea11e8e-d9e2-4799-9083-64c3b9d482f7
+[demo-funcionamento]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/e220c0ae-9824-46d7-a929-2d48bd36af9a
 [aplicacao-web]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/tree/main/CadastroPessoaWEB
 [server-aplicacao-web]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/tree/main/wildfly-19.1-WEB
 [banco-aplicacao-web]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/tree/main/banco-web
 [link-api]: https://github.com/caio01/CadastroPessoa-JSF-API-Docker
-[img-processo-integracao]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/000ed0ab-3253-4efc-80b6-ddbff266d054
-[img-post]:https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/19d058ca-6121-4993-8740-94e3fd5aa687
-[img-put]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/684b7167-19c3-43fa-984a-47fd90b2ab68
-[img-get]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/e921fd8e-fe76-4caa-815a-4850d77a7417
-[img-delete]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/96581638-d3f0-410f-b3cb-20701a92b92a
-[img-esquema-banco]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/31099735-4c3c-4806-854f-f87350770252
+[img-processo-integracao]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/9596f8ca-bfde-4bf0-98d6-2cb0c7cf3fd5
+
+[img-post]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/736794da-1ab7-482d-8f29-c77962a968a5
+[img-put]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/f3a9b4ee-af3e-4a02-b3ef-cf717f25c6f1
+[img-get]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/27b12596-ff02-4d72-aa09-fb28e4d5663e
+[img-delete]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/b6e757ac-0ee4-4092-8b6b-2f3346eff873
+[img-esquema-banco]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/e4fab17e-1a59-45de-85ad-7a391622023b
 
 [eclipse-windows]: https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2020-03/R/eclipse-jee-2020-03-R-incubation-win32-x86_64.zip
 [eclipse-linux]: https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2020-03/R/eclipse-jee-2020-03-R-incubation-linux-gtk-x86_64.tar.gz
 [eclipse-mac]: https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2020-03/R/eclipse-jee-2020-03-R-incubation-macosx-cocoa-x86_64.dmg
 
-[inst-1]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/0d3b5cd3-9fa7-47d4-b2ae-5e9508d9db07
-[inst-2]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/d56a7518-d58f-4e11-b5a2-4e4c4ecd351e
-[inst-3]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/d6249d32-9127-4351-9061-221f2a8197dc
-[inst-4]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/79b55c9a-968b-490a-8463-94b879d0d618
-[inst-5]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/f21d8273-9a78-4931-a211-9ad6ee9415ee
-[inst-6]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/1f839881-f2b9-4486-aabf-6c2552b1fd51
-[inst-7]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/63453a59-07a2-489f-907b-31449e890c57
-[inst-8]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/eb28b752-2aa5-4926-86bf-2c209f7c587a
-[inst-9]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/5a76cadc-0697-4fdd-ac37-97b21ebacf01
-[inst-10]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/dd593fbe-5dd6-4e35-990a-57c6e2097a61
-[inst-11]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/06cc685a-e68c-4e67-9041-2aa5fdd21e98
-[inst-12]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/5c31eb6c-0dc9-4430-bde8-8623a5bace69
-[inst-13]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/3d94b09d-812b-46ab-b875-993ca2aa4a27
-
-
-
-
-
-
-
-
-
+[inst-1]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/fb536041-faf4-4e90-98d3-3d6b4dcefa2c
+[inst-2]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/8bb8fcef-db13-4a05-be9e-551a3fd650c9
+[inst-3]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/4cdaf159-c8ba-4246-900e-dafa75dbd05d
+[inst-4]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/ebda7813-116f-42f7-a68c-307eaa528e86
+[inst-5]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/a2c2cfd7-1dee-453d-ae29-f4115c09b360
+[inst-6]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/fc9a17e2-5150-4a3c-ad08-57230aab7c17
+[inst-7]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/8477701b-7c9a-41aa-8b25-64fdcb4dc627
+[inst-8]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/71a7ad37-e1e2-4932-a67b-b6234b616989
+[inst-9]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/aeca69dc-65c2-4e28-8c45-bd6189a9567e
+[inst-10]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/b760067c-b621-49bd-b06f-61728fa92182
+[inst-11]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/ae26c309-4c48-468b-ae3a-94bf4d649e6a
+[inst-12]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/de59049b-debd-4de4-8115-a7ddbda2ad51
+[inst-13]: https://github.com/caio01/CadastroPessoa-JSF-Web-Docker/assets/49879702/1d2354f9-5486-4aa0-8a5a-bdf402d59dd8
 
 
 
